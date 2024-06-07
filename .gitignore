@@ -1,0 +1,13 @@
+# Ignore the .env file
+.env
+
+# dotenv
+.env
+
+# virtualenv
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
